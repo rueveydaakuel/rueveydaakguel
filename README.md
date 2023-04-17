@@ -37,3 +37,10 @@ My hobbies are:
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/_innng_)
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
+
+<p align="center">
+  <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></ a>
+  <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></ a>
+  <a href="https://youtube.com/@peterthehan"><img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg">< /a>
+</p>
+
